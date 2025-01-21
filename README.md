@@ -43,7 +43,7 @@ This version of eShopio is built on **.NET 9**. Below are the streamlined steps 
 ### Prerequisites
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/dotnet/eshop
+   git clone https://github.com/dotnet/eShopio
    ```
 
 2. **Install and Start Docker Desktop**

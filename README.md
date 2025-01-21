@@ -1,6 +1,3 @@
-Here's the updated README content up to the **Technologies Used** section:
-
----
 
 # **eShopio Reference Application**  
 

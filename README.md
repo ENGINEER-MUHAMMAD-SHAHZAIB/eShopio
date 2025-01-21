@@ -1,3 +1,37 @@
+Here's the updated README content up to the **Technologies Used** section:
+
+---
+
+# **eShopio Reference Application**  
+
+## **Overview**  
+A reference **.NET application** implementing an **e-commerce website** using a **services-based architecture** built with **.NET** and following best practices in modern software development.
+
+---
+
+## **Key Features**  
+- **Scalable and Modular Design**: Built for an e-commerce platform with extensibility in mind.  
+- **Secure Transactions**: Implements DevSecOps practices to ensure security at every stage of development.  
+- **Microservices Architecture**: Handles product catalogs, user management, and order processing as separate services.  
+- **Cloud Deployment Ready**: Supports deployment to cloud platforms for scalability and high availability.  
+- **REST APIs**: Provides extensibility and integration with external systems.  
+- **User-Friendly Interface**: Prioritizes a clean, intuitive, and responsive UI for the best user experience.  
+
+---
+
+## **Technologies Used**  
+- **.NET Core**: Backend application framework.  
+- **ASP.NET MVC**: For building the web application layer.  
+- **Entity Framework Core**: For database management and operations.  
+- **Docker**: Containerization for seamless deployment.  
+- **Azure/AWS**: For cloud hosting and scalability.  
+- **CI/CD Pipeline**: Integrated with GitHub Actions for automated builds, tests, and deployments.
+
+--- 
+![eShopio_architecture](https://github.com/user-attachments/assets/2a8d623b-4d1f-4796-9b0a-b1fd4e02611d)
+
+
+
 ## Getting Started with eShopio
 
 This version of eShopio is built on **.NET 9**. Below are the streamlined steps to set up and run the application effectively.

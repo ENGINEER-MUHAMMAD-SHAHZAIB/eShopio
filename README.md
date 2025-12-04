@@ -4,7 +4,7 @@
 ## **Overview**  
 A reference **.NET application** implementing an **e-commerce website** using a **services-based architecture** built with **.NET** and following best practices in modern software development.
 
----
+----
 
 ## **Key Features**  
 - **Scalable and Modular Design**: Built for an e-commerce platform with extensibility in mind.  
